@@ -1,0 +1,1 @@
+from .destinos import DestinoInterface
